@@ -1,0 +1,25 @@
+naries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+*.out
+
+.idea
+
+### Go Patch ###
+/vendor/
+/Godeps/
+
+out/
+
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+
